@@ -8,20 +8,6 @@
 
 An end-to-end Natural Language Processing (NLP) project that evaluates and classifies IMDB movie reviews as either **Positive** or **Negative**. This project benchmarks classical Machine Learning algorithms, Deep Learning architectures (LSTM), and state-of-the-art Transformer models (**BERT**).
 
----
-
-## 📌 Table of Contents
-- [Project Overview](#-project-overview)
-- [Dataset Information](#-dataset-information)
-- [Project Architecture & Workflow](#-project-architecture--workflow)
-- [Models & Performance Benchmark](#-models--performance-benchmark)
-- [Tech Stack](#-tech-stack)
-- [Installation & Local Setup](#-installation--local-setup)
-- [Project Structure](#-project-structure)
-- [Future Roadmap](#-future-roadmap)
-- [Author](#-author)
-
----
 
 ## 📌 Project Overview
 
