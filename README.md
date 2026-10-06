@@ -56,6 +56,7 @@ Understanding sentiment from user reviews provides business intelligence for str
         ▼                              ▼                                                           ▼
   Accuracy: 89.76%              Sequential LSTM                                             Accuracy: 91.37%
 
+```
 👤 Author
 Md Nahidul Islam
 Graduate Student, Department of Computer Science & Engineering
